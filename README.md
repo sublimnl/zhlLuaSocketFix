@@ -22,7 +22,7 @@ zhlLuaSocketFix replaces REPENTOGON's incompatible LuaSocket with a properly com
 
 ### Option 1: Automatic Installer (Recommended)
 
-1. Download the latest `zhlLuaSocketFix_Setup.exe` from the [Releases](/sublimnl/zhlLuaSocketFix/releases/latest) page
+1. Download the latest `zhlLuaSocketFix_Setup.exe` from the [Releases](../../releases/latest) page
 2. Run the installer - it will automatically:
    - Detect your Isaac installation (Steam or manual)
    - Validate you have REPENTOGON installed
@@ -30,7 +30,7 @@ zhlLuaSocketFix replaces REPENTOGON's incompatible LuaSocket with a properly com
 
 ### Option 2: Manual Installation
 
-1. Download `zhlLuaSocketFix.dll` from the [Releases](/sublimnl/zhlLuaSocketFix/releases/latest) page
+1. Download `zhlLuaSocketFix.dll` from the [Releases](../../releases/latest) page
 2. Locate your Isaac installation directory (where `isaac-ng.exe` is located)
 3. Ensure you have REPENTOGON installed (look for `zhlREPENTOGON.dll`)
 4. Copy `zhlLuaSocketFix.dll` to the Isaac directory
@@ -70,7 +70,7 @@ No special setup or compatibility code is needed - the fix works transparently.
 
 Having issues? Need help?
 
-- 🐛 **Bug Reports**: [Create an issue](/sublimnl/zhlLuaSocketFix/issues)
+- 🐛 **Bug Reports**: [Create an issue](../../issues)
 - 💬 **General Help**: [Join our Discord](https://discord.com/invite/5R9CSxzcep)
 - 📖 **REPENTOGON Docs**: [REPENTOGON Documentation](https://github.com/TeamREPENTOGON/REPENTOGON)
 
@@ -92,3 +92,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 **Created by**: [sublimnl](https://twitch.tv/sublimnl)  
 **Discord**: https://discord.com/invite/5R9CSxzcep
+
