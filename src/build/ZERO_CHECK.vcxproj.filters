@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\build\CMakeFiles\9681e64d19405884039ab7d106fa4115\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{25BBB953-959E-3333-A326-CAB259A41DB6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

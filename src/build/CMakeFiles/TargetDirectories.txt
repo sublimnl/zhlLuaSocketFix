@@ -1,0 +1,4 @@
+D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/build/CMakeFiles/zhlLuaSocketFix.dir
+D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/build/CMakeFiles/luasocket.dir
+D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/build/CMakeFiles/ALL_BUILD.dir
+D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/build/CMakeFiles/ZERO_CHECK.dir

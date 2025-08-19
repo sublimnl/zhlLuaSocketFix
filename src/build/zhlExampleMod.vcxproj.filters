@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\src\mod.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{44E2FE22-2F03-34F0-9638-AD49D23141D8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

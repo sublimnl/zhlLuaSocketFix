@@ -1,0 +1,28 @@
+﻿  Building Custom Rule D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/CMakeLists.txt
+  auxiliar.c
+  buffer.c
+  compat.c
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\auxiliar.c(54,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\auxiliar.c(91,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\auxiliar.c(105,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  except.c
+  inet.c
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\inet.c(135,23): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\inet.c(338,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\inet.c(499,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  io.c
+  luasocket.c
+  mime.c
+  options.c
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\options.c(38,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\options.c(51,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\options.c(322,23): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  select.c
+  tcp.c
+  timeout.c
+  udp.c
+  wsocket.c
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\wsocket.c(319,11): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\wsocket.c(325,11): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating Code...
+  luasocket.vcxproj -> D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\build\Debug\luasocket.lib

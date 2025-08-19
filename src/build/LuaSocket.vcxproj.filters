@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\auxiliar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\compat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\except.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\inet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\luasocket.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\mime.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\options.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\select.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\tcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\timeout.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\wsocket.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\auxiliar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\compat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\except.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\inet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\io.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\luasocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\mime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\options.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\select.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\tcp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\timeout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\udp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\libs\luasocket-3.1.0\src\wsocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A5359523-A52B-3EB2-8E29-ABD0A5370E14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69E48FB8-93AA-32B0-8822-44F91A622960}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

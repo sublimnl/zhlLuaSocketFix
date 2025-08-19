@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/CMakeLists.txt
+  mod.cpp
+     Creating library D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/build/Debug/zhlLuaSocketFix.lib and object D:/Development/Repentogon_DLL_Mods_Info/05_luasocket_fix/build/Debug/zhlLuaSocketFix.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  zhlLuaSocketFix.vcxproj -> D:\Development\Repentogon_DLL_Mods_Info\05_luasocket_fix\build\Debug\zhlLuaSocketFix.dll
