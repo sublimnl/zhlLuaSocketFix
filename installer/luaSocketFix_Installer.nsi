@@ -5,14 +5,16 @@ Unicode true
 RequestExecutionLevel user
 
 ; Metadata to reduce false positives from antivirus
-VIProductVersion "1.0.0.0"
+VIProductVersion "1.0.0.1"
 VIAddVersionKey "ProductName" "zhlLuaSocketFix"
 VIAddVersionKey "CompanyName" "sublimnl"
 VIAddVersionKey "FileDescription" "zhlLuaSocketFix Installer for REPENTOGON"
-VIAddVersionKey "FileVersion" "1.0.0.0"
-VIAddVersionKey "ProductVersion" "1.0.0.0"
+VIAddVersionKey "FileVersion" "1.0.0.1"
+VIAddVersionKey "ProductVersion" "1.0.0.1"
 VIAddVersionKey "LegalCopyright" "sublimnl © 2025"
 VIAddVersionKey "OriginalFilename" "zhlLuaSocketFix_Setup.exe"
+VIAddVersionKey "InternalName" "zhlLuaSocketFix"
+VIAddVersionKey "Comments" "Open source REPENTOGON mod installer - https://github.com/sublimnl/zhlLuaSocketFix"
 
 ; Includes
 !include "MUI2.nsh"
@@ -43,8 +45,8 @@ BrandingText " "
 !define MUI_FINISHPAGE_TEXT "zhlLuaSocketFix has been successfully installed!$\r$\n$\r$\nYou can now start The Binding of Isaac: Rebirth."
 
 ; Compression settings to reduce false positives
-SetCompressor /SOLID lzma
-SetCompressorDictSize 32
+; Using zlib instead of lzma can reduce false positives
+SetCompressor /SOLID zlib
 SetDatablockOptimize on
 CRCCheck on
 
